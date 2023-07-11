@@ -1,0 +1,7 @@
+Cita 1:
+Fecha: 12/03/2023
+Hora: 9:00
+Descripcion: Eric
+Medico: Dr. Perez
+Estado: Ocupada
+------------------------
